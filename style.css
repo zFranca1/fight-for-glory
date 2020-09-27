@@ -9,7 +9,7 @@ body {
 }
 
 .img-container {
-    background-image: url(../campeoes/imagens/menu-brackground.jpg);
+    background-image: url(./imagens/menu-brackground.jpg);
     height: 250%;
     background-position: center;
     background-repeat: no-repeat;
@@ -281,7 +281,7 @@ input {
         font-family: 'Bebas Neue', cursive;
     }
     .img-container {
-        background-image: url(../campeoes/imagens/backgroundmobile.png);
+        background-image: url(./imagens/backgroundmobile.png);
         height: 100%;
         background-position: center;
         background-repeat: no-repeat;
